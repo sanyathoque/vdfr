@@ -1,7 +1,4 @@
 ![image](https://github.com/user-attachments/assets/46fa1345-c146-4809-b5ab-6f6fd82e4d19)
-Below is a comprehensive, high-level overview of what this code does and all the interesting features it includes. You can adapt and refine this for your GitHub README.
-
----
 
 ## Overview
 
